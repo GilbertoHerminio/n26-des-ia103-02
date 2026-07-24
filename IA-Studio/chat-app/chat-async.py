@@ -55,7 +55,7 @@ async def main():
             print("Assistant:", assistant_text)
             last_response_id = response.id
 
-            
+             
 
     except Exception as ex:
         print(ex)
